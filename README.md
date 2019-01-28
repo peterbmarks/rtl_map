@@ -30,6 +30,11 @@ Another purpose of this project is making a testing tool & frequency scanner app
 * librtlsdr (cmake / automatic installation & linking)
 * fftw3 (cmake / automatic installation & linking)
 
+#### Ubuntu 18.10 notes
+```
+sudo apt install librtlsdr-dev gnuplot
+```
+
 ### Clone Repository
 
 ```
